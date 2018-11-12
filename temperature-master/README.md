@@ -3,7 +3,8 @@ Hafiz Zhafran Adnandifa
 TI4C / 09
 
 - Hasil dari Activitytest
-![](screenshot/activitytest.png)
+<br><br>
+
 
 
 - hasil aplikasi
