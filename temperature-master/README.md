@@ -1,18 +1,11 @@
-# temperature
-Bayu Hari Saputro - 1541180160 - TI4C/04
+Hafiz Zhafran Adnandifa
+1541180164
+TI4C / 09
 
-## hasil dari testing Convertertest
-![](screenshot/convertertest.png)
-
-
-## hasil dari testing Layouttest
-![](screenshot/layouttest.png)
-
-
-## hasil dari testing Activitytest
+- Hasil dari Activitytest
 ![](screenshot/activitytest.png)
 
 
-## hasil aplikasi
+- hasil aplikasi
 ![](screenshot/hasilfarenheit2.png)
 ![](screenshot/hasilkelvin.png)
