@@ -7,6 +7,6 @@ TI4C / 09
 
 
 
-- hasil aplikasi
-![](screenshot/hasilfarenheit2.png)
+- hasil aplikasi<br><br>
+![](screenshot/hasilfarenheit2.png)<br>
 ![](screenshot/hasilkelvin.png)
